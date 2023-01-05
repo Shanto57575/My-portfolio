@@ -12,12 +12,21 @@
     color: #FFFFFF;
     font-weight: 700;
     font-size: 20px;
-    border: 0;
+    border: 1px solid orangered;
     padding: 18px 35px;
-    height: 64px;
-    border-radius: 5px;
+    height: 65px;
+    border-radius: 10px;
 }
 
+#clr-cng{
+    background-color: white;
+    color: orangered;
+    border: 1px solid orangered;
+}
+#sb{
+    height: 20px;
+    width: 70px;
+}
 /* header and navigation style */
 .header {
     background: #FFF8F3;
