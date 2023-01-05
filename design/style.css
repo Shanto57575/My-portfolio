@@ -59,6 +59,7 @@ nav li {
 /* Banner style */
 
 .banner {
+    justify-content: space-between;
     display: flex;
     align-items: center;
     margin: 0 200px;
